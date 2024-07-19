@@ -553,3 +553,87 @@ button.submitb
     box-shadow:0px 10px 3vh black;
 
 }
+/* ------Parents details------ */
+.Parent_Details
+{
+    margin-top: 15vh;
+    margin-left: 10vw;
+    margin-bottom: 2vh;
+    padding-bottom: 5vh;
+    background: white;
+    width: 80vw;
+    /* height: 100vh; */
+    /* border: 2px solid black; */
+    border-radius: 3vh;
+    box-shadow:0px 0px 3vw black;
+}
+p.detailsp
+{
+    padding-top: 5vh;
+    padding-bottom: 3vh;
+    padding-left: 30vw;
+    color:  black;
+    font-size: 4vh;
+    font-weight: 1000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Parent_Details .Father
+{
+    padding-top: 2vh;
+    font: 1.5em sans-serif;
+}
+p.fatherp
+{
+    margin-top: 2vh;
+    padding-left: 5vw;
+}
+/* .Parent_Details .Father .fatheri
+{
+    justify-content: space-between;
+    align-items: space-between;
+} */
+input.namef
+{
+    padding-left: 2vw;
+    margin-top: 1vh;
+    text-align: left;
+    border-radius: 0;
+    height: 5vh;
+    width: 18vw;
+    margin-left: 4vw;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+}
+input.emailf
+{
+    padding-left: 2vw;
+    margin-top: 3vh;
+    text-align: left;
+    border-radius: 0;
+    height: 5vh;
+    width: 25vw;
+    margin-left: 3vw;
+    font-weight: 400;
+    line-height: 1.5;
+     color: #212529;
+    
+    background-color: #fff;
+    border: 1px solid #ced4da;   
+}
+select.selectf
+{
+    margin-top: 3vh;
+    text-align: center;
+    border-radius: 0;
+    height: 5vh;
+    width: 18vw;
+    margin-left: 4vw;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+}
